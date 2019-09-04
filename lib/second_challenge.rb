@@ -4,11 +4,15 @@ def second_challenge
     :patriarch => {Lord Montague},
     :matriarch => {Lady Montague},
     :hero => {Romeo},
-    :hero_friends => {Benvolio}
+    :hero_friends => [Bevolio],
       }, 
     :capulet => {
-      #your key/value pairs here!
-      }}
+      :patriarch => {Lord Capulet},
+      :matriarch => {Lady Capulet},
+      :heroine => {Juliet},
+      :heroine_friends => [Steven, Nurse],
+    }
+      
 
   
 end
