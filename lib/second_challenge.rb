@@ -3,7 +3,8 @@ def second_challenge
     :montague => {
      Lord Montague :patriarch
      Lady Montague :matriarch
-     #your key/value pairs here!
+     Romeo :hero 
+     Benvolio :hero_friends
       }, 
     :capulet => {
       #your key/value pairs here!
